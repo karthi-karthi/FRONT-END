@@ -50,11 +50,9 @@ body {margin:0;font-family:Arial}
 .dropdown-content a:hover {
   background-color: whitesmoke;
   color: #EE6D57;
-  /* cursor: pointer; */
 }
 
 .dropdown:hover .dropdown-content {
   display: block;
-  /* cursor: pointer; */
 }
 
